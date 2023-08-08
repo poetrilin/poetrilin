@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**poetrilin/poetrilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like new things and overcoming challenges(ML, AI 🤖 , PM 📄 ) depending on what the project requires.
 
-Here are some ideas to get you started:
+I love exploring new tech stack 💻 and leveraging them to build something meaningful 🛠️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying in USTC
+- 🌱 I’m currently learning ML, DL
+- 🤔 Ask me about technical problems or good ideas, and I'll be happy to communicate with you
+- 📫 How to reach me: 3193281992@qq.com
+
+<!---### 👉 New Projects
+
+### ✨ Contribute To and Focus On--->
