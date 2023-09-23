@@ -12,3 +12,6 @@ I love exploring new tech stack 💻 and leveraging them to build something mean
 <!---### 👉 New Projects
 
 ### ✨ Contribute To and Focus On--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetrilin&layout=compact)](https://github.com/poetrilin/github-readme-stats)
