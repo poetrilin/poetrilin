@@ -13,5 +13,6 @@ I love exploring new tech stack 💻 and leveraging them to build something mean
 
 ### ✨ Contribute To and Focus On--->
 
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetrilin&layout=compact)](https://github.com/poetrilin/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poetrilin&show_icons=true&theme=radical)
